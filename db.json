@@ -1,0 +1,49 @@
+{
+	"user": [
+		{
+			"id":"1",
+			"firstName":"Yves",
+			"lastName":"Mutshipayi",
+			"email":"yvesmut1000@gmail.com",
+			"phoneNumber":"+243817288439",
+			"nickName":"shinyBoy21"
+		}	
+	],
+
+	"education": [
+		{
+			"id":"1",
+			"level":"Highschool",
+			"area":"Electronics",
+			"year":"2013"
+		},
+		{
+			"id":"2",
+			"level":"University",
+			"area":"Building Engineering",
+			"year":"2019"
+		},
+		{
+			"id":"3",
+			"level":"Avanced School",
+			"area":"Web development",
+			"year":"2021"
+		}	
+	],
+
+	"projects": [
+		{
+			"id":"1",
+			"overview": "UI and UX analysis of the Kinshasa Digital Academy website in order to improving its traffics"
+		},
+		{
+			"id":"2",
+			"overview": "Creation of the official website of Kinshasa Digital"
+		},
+		{
+			"id":"3",
+			"overview": "Design and creation of my Portfolio website in order to expose myself and my skills"
+		}
+	]
+
+}
