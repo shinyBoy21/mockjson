@@ -6,7 +6,8 @@
 			"lastName":"Mutshipayi",
 			"email":"yvesmut1000@gmail.com",
 			"phoneNumber":"+243817288439",
-			"nickName":"shinyBoy21"
+			"nickName":"shinyBoy21",
+			"city":"Kinshasa,Mont-Ngafula"
 		}	
 	],
 
@@ -38,16 +39,19 @@
 		{
 			"id":"1",
 			"img":"https://raw.githubusercontent.com/shinyBoy21/mockjson/main/kda.JPG",
+			"site":"https://www.kinshasadigital.academy/",
 			"overview": "UI and UX analysis of the Kinshasa Digital Academy website in order to improving its traffics"
 		},
 		{
 			"id":"2",
 			"img":"https://raw.githubusercontent.com/shinyBoy21/mockjson/main/kd.JPG",
+			"site":"https://www.kinshasadigital.com/",
 			"overview": "Creation of the official website of Kinshasa Digital"
 		},
 		{
 			"id":"3",
 			"img":"https://raw.githubusercontent.com/shinyBoy21/mockjson/main/port.JPG",
+			"site":"Available soon",
 			"overview": "Design and creation of my Portfolio website in order to expose myself and my skills"
 		}
 	]
