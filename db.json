@@ -34,14 +34,17 @@
 	"projects": [
 		{
 			"id":"1",
+			"img":"kda.JPG",
 			"overview": "UI and UX analysis of the Kinshasa Digital Academy website in order to improving its traffics"
 		},
 		{
 			"id":"2",
+			"img":"kd.JPG",
 			"overview": "Creation of the official website of Kinshasa Digital"
 		},
 		{
 			"id":"3",
+			"img":"port.JPG",
 			"overview": "Design and creation of my Portfolio website in order to expose myself and my skills"
 		}
 	]
