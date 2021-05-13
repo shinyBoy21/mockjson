@@ -13,18 +13,21 @@
 	"education": [
 		{
 			"id":"1",
+			"img":"https://raw.githubusercontent.com/shinyBoy21/mockjson/main/undraw_circuit_board_4c4d.png",
 			"level":"Highschool",
 			"area":"Electronics",
 			"year":"2013"
 		},
 		{
 			"id":"2",
+			"img":"https://raw.githubusercontent.com/shinyBoy21/mockjson/main/undraw_under_construction_46pa.png",
 			"level":"University",
 			"area":"Building Engineering",
 			"year":"2019"
 		},
 		{
 			"id":"3",
+			"img":"https://raw.githubusercontent.com/shinyBoy21/mockjson/main/undraw_web_developer_p3e5.png",
 			"level":"Avanced School",
 			"area":"Web development",
 			"year":"2021"
