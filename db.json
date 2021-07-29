@@ -17,21 +17,25 @@
 			"img":"https://raw.githubusercontent.com/shinyBoy21/mockjson/main/undraw_circuit_board_4c4d.png",
 			"level":"Highschool",
 			"area":"Electronics",
-			"year":"2013"
+			"year":"2013",
+			"status":"far fa-check-circle"
+
 		},
 		{
 			"id":"2",
 			"img":"https://raw.githubusercontent.com/shinyBoy21/mockjson/main/undraw_under_construction_46pa.png",
 			"level":"University",
 			"area":"Building Engineering",
-			"year":"2019"
+			"year":"2019",
+			"status":"far fa-check-circle"
 		},
 		{
 			"id":"3",
 			"img":"https://raw.githubusercontent.com/shinyBoy21/mockjson/main/undraw_web_developer_p3e5.png",
 			"level":"Avanced School",
 			"area":"Web development",
-			"year":"2021"
+			"year":"2021",
+			"status": "fas fa-sync-alt"
 		}	
 	],
 
