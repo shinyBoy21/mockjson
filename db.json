@@ -42,7 +42,7 @@
 	"projects": [
 		{
 			"id":"1",
-			"img":"https://raw.githubusercontent.com/shinyBoy21/mockjson/main/kda.JPG",
+			"img":"https://raw.githubusercontent.com/shinyBoy21/mockjson/main/kesho.jpg",
 			"site":"https://kesho-congo-1-web-f63k23yrl-keshocongo1.vercel.app/",
 			"overview": "Dashboard for Kesho Congo to track the health improvement of the children that are under malnutrition."
 		},
